@@ -21,7 +21,7 @@ repository               : "shuaiwang0/shuaiwang0.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "cropped-Shuai Wang.jpg"
   name             : "Shuai Wang"
   pronouns         : # example: "he/his"  
   bio              : "Fresh graduated student in robotics"
