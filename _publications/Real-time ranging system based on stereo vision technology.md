@@ -2,7 +2,7 @@
 title: "Real-time ranging system based on stereo vision technology"
 collection: publications
 permalink: /publication/2015-06-Real-time ranging system based on stereo vision technology
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+#excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2015-10-01
 venue: 'Electronic Science and Technology'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
