@@ -11,7 +11,7 @@ I'm currently a student in Robitics at [The State University of New York at Buff
 
 News
 ======
-2024.05 I'm gonna graduate with my second master' degree!
+2024.05 I'm gonna graduate with my master' degree!
 
 
 
