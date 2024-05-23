@@ -6,7 +6,7 @@ collection: publications
 date: 2016-09
 venue: 'Computer Applications and Software'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-#paperurl: 'http://academicpages.github.io/files/Real-time-ranging-system-based-on-stereo-vision-technology.pdf'
+paperurl: 'http://academicpages.github.io/files/Implementing-automobile-ranging-system-based-on-binocular-stereo-vision-technology.pdf'
 citation: 'Han, J., Wang, S. Implementing automobile ranging system based on binocular stereo-vision technology. Computer Applications and Software, 2016 (09).'
 ---
 

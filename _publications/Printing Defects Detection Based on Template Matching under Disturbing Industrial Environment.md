@@ -6,7 +6,7 @@ permalink: /publication/Printing Defects Detection Based on Template Matching un
 date: 2017-11
 venue: 'Packaging Engineering'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-#paperurl: 'http://academicpages.github.io/files/Real-time-ranging-system-based-on-stereo-vision-technology.pdf'
+paperurl: 'http://academicpages.github.io/files/Printing-Defects-Detection-Based-on-Template-Matching-under-Disturbing-Industrial-Environment.pdf'
 citation: 'Zhao, X.1, Zhou, Y. 1, He, F. 1, Wang, S. 2, Zhang, Z2. Printing Defects Detection Based on Template Matching under Disturbing Industrial Environment. Packaging Engineering, 2017 (11).'
 ---
 
