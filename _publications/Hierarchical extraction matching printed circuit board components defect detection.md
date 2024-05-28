@@ -6,7 +6,7 @@ permalink: /publication/Hierarchical extraction matching printed circuit board c
 date: 2018-08-01
 venue: 'Instrument Technique and Sensor'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/Hierarchical-extraction-matching-printed-circuit-board-components-defect-detection.pdf'
+paperurl: 'http://shuaiwang0.github.io/files/Hierarchical-extraction-matching-printed-circuit-board-components-defect-detection.pdf'
 citation: 'Zhao, X.1, Zhou, Y. 1, He, F. 1, Wang, S. 2, Zhang, Z2. Hierarchical extraction matching printed circuit board components defect detection. Instrument Technique and Sensor, 2018 (08).'
 ---
 

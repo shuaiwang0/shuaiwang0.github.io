@@ -6,7 +6,7 @@ permalink: /publication/2015-06-Real-time ranging system based on stereo vision 
 date: 2015-10-01
 venue: 'Electronic Science and Technology'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/Real-time-ranging-system-based-on-stereo-vision-technology.pdf'
+paperurl: 'http://shuaiwang0.github.io/files/Real-time-ranging-system-based-on-stereo-vision-technology.pdf'
 citation: 'Wang, S., Han, J. Real-time ranging system based on stereo vision technology. Electronic Science and Technology, 2015 (10).'
 ---
 

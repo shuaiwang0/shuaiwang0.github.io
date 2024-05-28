@@ -6,7 +6,7 @@ permalink: /publication/Automatic Weighing and Cutting Method of Strip Optical G
 date: 2017-07-01
 venue: 'Laser & Optoelectronics Progress'
 # slidesurl: 'http://academicpages.github.io/files/Robust-Pose-Estimation-for-Spherical-panorama-slides.pdf'
-paperurl: 'http://academicpages.github.io/files/Automatic-Weighing-and-Cutting-Method-of-Strip-Optical-Glass-Based-on-Machine-Vision.pdf'
+paperurl: 'http://shuaiwang0.github.io/files/Automatic-Weighing-and-Cutting-Method-of-Strip-Optical-Glass-Based-on-Machine-Vision.pdf'
 citation: 'He, F. 1, Zhou, Y. 1, Zhao, X.1, Wang, S. 2, Zhang, Z2. Automatic Weighing and Cutting Method of Strip Optical Glass Based on Machine Vision. Laser & Optoelectronics Progress, 2017 (07).'
 ---
 
