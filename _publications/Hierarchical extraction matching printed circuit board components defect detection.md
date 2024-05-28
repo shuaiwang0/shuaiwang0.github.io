@@ -3,7 +3,7 @@ title: "Hierarchical extraction matching printed circuit board components defect
 collection: publications
 permalink: /publication/Hierarchical extraction matching printed circuit board components defect detection
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2018-08
+date: 2018-08-01
 venue: 'Instrument Technique and Sensor'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/Hierarchical-extraction-matching-printed-circuit-board-components-defect-detection.pdf'

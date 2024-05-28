@@ -3,7 +3,7 @@ title: "Printing Defects Detection Based on Template Matching under Disturbing I
 collection: publications
 permalink: /publication/Printing Defects Detection Based on Template Matching under Disturbing Industrial Environment
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2017-11
+date: 2017-11-01
 venue: 'Packaging Engineering'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/Printing-Defects-Detection-Based-on-Template-Matching-under-Disturbing-Industrial-Environment.pdf'
