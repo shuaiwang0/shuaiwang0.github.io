@@ -5,7 +5,7 @@ permalink: /publication/Robust Pose Estimation for Spherical Panorama
 #excerpt: 'This paper is the master's thesis.'
 date: 2024-05-17
 #venue: 'GitHub Journal of Bugs'
-slidesurl: 'http://shuaiwang0.github.io/files/Robust-Pose-Estimation-for-Spherical-panorama-slides.pdf'
+slidesurl: 'http://shuaiwang0.github.io/files/Robust-Pose-Estimation-for-Spherical-Panorama-slides.pdf'
 paperurl: 'http://shuaiwang0.github.io/files/Robust-Pose-Estimation-for-Spherical-panorama.pdf'
 #citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
