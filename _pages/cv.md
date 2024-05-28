@@ -20,16 +20,14 @@ Work experience
 * 2015-2020: Computer Vision Engineer / Software Engineer
   * Beijing Anshi ChineLec Ltd.
   * Duties included: Develop computer vision and automatic inspection device.
-  * Supervisor: Professor Git
   
 Skills
 ======
 * Python, C++, C, ROS, MATLAB, LabVIEW, MFC, OpenCV.
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Basic knowledge
+  * Computer Vision & Image Processing
+  * Reinforcement Learning
+  * Deep Learning
 
 Publications
 ======
@@ -48,7 +46,7 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
-  
+<!--   
 Service and leadership
 ======
-#* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
