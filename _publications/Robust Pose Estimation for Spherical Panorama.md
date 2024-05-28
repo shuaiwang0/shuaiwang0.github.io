@@ -2,7 +2,7 @@
 title: "Robust Pose Estimation for Spherical Panorama"
 collection: publications
 permalink: /publication/Robust Pose Estimation for Spherical Panorama
-excerpt: 'This paper is the master's thesis.'
+#excerpt: 'This paper is the master's thesis.'
 date: 2024-05-17
 #venue: 'GitHub Journal of Bugs'
 slidesurl: 'http://academicpages.github.io/files/Robust-Pose-Estimation-for-Spherical-panorama-slides.pdf'
